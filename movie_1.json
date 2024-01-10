@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "name":"",
+            "original_name":"",
+            "desc":"",
+            "poster_url":"",
+            "thumb_url":"",
+            "episodes":[
+                {
+                    "server_data":[
+                        {
+                            "name":"",
+                            "link":""
+                        }
+                    ],
+                    "server_name":""
+                }
+            ]
+        }
+    ],
+    "has_next": false
+}
