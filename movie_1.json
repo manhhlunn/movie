@@ -1,22 +1,21 @@
 {
     "items": [
         {
+            "id":"",
             "name":"",
             "original_name":"",
-            "desc":"",
             "poster_url":"",
             "thumb_url":"",
-            "episodes":[
-                {
+            "episodes": {
                     "server_data":[
                         {
                             "name":"",
-                            "link":""
+                            "link_m3u8":"",
+                            "link_mpd":""
                         }
                     ],
                     "server_name":""
-                }
-            ]
+            }
         }
     ],
     "has_next": false
