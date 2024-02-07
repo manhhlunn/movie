@@ -1,20 +1,25 @@
 {
     "items": [
         {
-            "id":"",
-            "name":"",
-            "original_name":"",
-            "poster_url":"",
-            "thumb_url":"",
+            "id":"hon-nhan-hop-dong",
+            "name":"Hôn Nhân Hợp Đồng",
+            "original_name":"The Story Of Park’s Marriage Contract",
+            "poster_url":"https://static2.vieon.vn/vieplay-image/poster_v4/2023/10/20/isi08pqi_660x946-honnhanhd1_360_534.jpeg",
+            "thumb_url":"https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2023/10/20/h6idotc6_1920x1080-honnhanhd1_1267_712.jpeg",
             "episodes": {
                     "server_data":[
                         {
-                            "name":"",
-                            "link_m3u8":"",
-                            "link_mpd":""
+                            "name":"1A",
+                            "link_m3u8":"https://playlist-free.vieon.vn/playlist/content/vieon/aa9c283a-1a07-4a60-86b5-4b14bed89651/1707372566000/5db054ab7f9016ccffe6c11136623d31/playlist.m3u8?is_global=0&model=&pkgs=196&platform=web&play_trial=0&uid=2c668125-1f21-44d5-e829-8916a50df6da&user_type=0&sn=hni-vtt-002&rid=8",
+                            "link_mpd":"https://playlist-free.vieon.vn/playlist/content/vieon/aa9c283a-1a07-4a60-86b5-4b14bed89651/1707372566000/5db054ab7f9016ccffe6c11136623d31/playlist.mpd?is_global=0&model=&pkgs=196&platform=web&play_trial=0&uid=2c668125-1f21-44d5-e829-8916a50df6da&user_type=0&sn=hni-vtt-002&rid=8"
+                        },
+                        {
+                            "name":"1B",
+                            "link_m3u8":"https://playlist-free.vieon.vn/playlist/content/vieon/efcfcd54-4e89-4c29-8c68-8a0de2706b77/1707372675000/f6a049695e69ebbb19e2be67da24459b/playlist.m3u8?is_global=0&model=&pkgs=196&platform=web&play_trial=0&uid=2c668125-1f21-44d5-e829-8916a50df6da&user_type=0&sn=hni-vtt-002&rid=8",
+                            "link_mpd":"https://playlist-free.vieon.vn/playlist/content/vieon/efcfcd54-4e89-4c29-8c68-8a0de2706b77/1707372675000/f6a049695e69ebbb19e2be67da24459b/playlist.mpd?is_global=0&model=&pkgs=196&platform=web&play_trial=0&uid=2c668125-1f21-44d5-e829-8916a50df6da&user_type=0&sn=hni-vtt-002&rid=8"
                         }
                     ],
-                    "server_name":""
+                    "server_name":"Vietsub"
             }
         }
     ],
